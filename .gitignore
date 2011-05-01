@@ -1,0 +1,17 @@
+*.pyc
+.coverage
+*.log
+*.db
+.DS_Store
+*.swp
+*.swo
+*~.nib
+*.pbxuser
+*.perspective
+*.perspectivev3
+*.mode1v3
+*.mode2v3
+.hg
+.hgignore
+.hgtags
+local_settings.py
